@@ -112,6 +112,12 @@ The dev fee address is: `0x6A3404e7fdeE519AaaB364E1C27Db07aa99Ec922`
 - Never share your private key
 - Use a dedicated wallet with limited funds
 
+## Support
+
+If you find this tool useful, consider supporting the project:
+
+- 🌿 **Grass** — Earn passive income by sharing unused bandwidth: [Register here](https://app.grass.io/register?referralCode=WeMGAjVJGpVUO5U)
+
 ## License
 
 MIT
